@@ -1,0 +1,22 @@
+
+form{
+    padding-left: 20%;
+    padding-top: 15%;
+}
+span{
+    font-weight: bold;
+    font-size: larger;
+}
+
+#panel2{
+    padding-top: 20%;
+    padding-left: 5%;
+}
+
+label{
+    font-weight: bold;
+    font-size: 40px;
+}
+sub{
+  color: lightblue;
+}
